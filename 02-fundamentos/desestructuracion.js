@@ -23,8 +23,8 @@ function imprimeHeroMejorado({nombre,apellido,poder,edad }) {
     console.log(nombre, apellido,poder,edad); 
 }
 
-//imprimeHero(deadpool);
-//imprimeHeroMejorado(deadpool);
+imprimeHero(deadpool);
+imprimeHeroMejorado(deadpool);
 
 /* const {nombre,apellido,poder,edad } = deadpool;
 console.log(nombre, apellido,poder,edad); */
